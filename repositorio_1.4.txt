@@ -1,1 +1,2 @@
 esto es un repositorio git.
+esta siendo modificado desde github para descargarlo en el pc y posteriormente fusionarlo con master desde la rama andres
